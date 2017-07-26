@@ -1,0 +1,2 @@
+export(maxTPR)
+importFrom("stats", "as.formula", "complete.cases", "glm", "pnorm", "quantile", "sd", "uniroot")
